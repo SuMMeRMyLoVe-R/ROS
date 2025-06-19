@@ -12,7 +12,7 @@
    - 控制機器手臂持續上下擺動，模擬服務或迎賓姿態。
 
 3. obstacle.py 結合鍵盤控制）  
-   - 使用 teleop_twist_keyboard teleop_twist_keyboard.py cmd_vel:=/cmd_vel_raw 進行方向控制，並整合避障功能。
+   - 使用 rosrun teleop_twist_keyboard teleop_twist_keyboard.py cmd_vel:=/cmd_vel_raw 進行方向控制，並整合避障功能。
 
 ---
 
